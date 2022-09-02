@@ -11,3 +11,4 @@ Who am i
 10- mirrors permissions
 11. sets directories permissions
 12- setting directory permissions
+13- change group
