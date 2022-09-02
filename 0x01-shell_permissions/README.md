@@ -8,3 +8,4 @@ Who am i
 6- gives several permissions
 8- more permissions
 9- more on permissions
+10- mirrors permissions
