@@ -7,3 +7,4 @@ ls -n -l displays current directory contents with hidden files and the user/grou
 mkdir /tmp/my_first_directory creates a new directory in tmp directory
 mv file directory Moves file(betty) to tmp/my first directory
 10. Changes working directory to previous one
+11- list entire files
