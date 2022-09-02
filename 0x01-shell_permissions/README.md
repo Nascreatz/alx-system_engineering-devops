@@ -4,3 +4,4 @@ Who am i
 3- Changes owner of file hello to the user betty
 4- creates an empty file hello
 5- add execution permission to owner of file hello
+7- execute permissions allowed for everybody
