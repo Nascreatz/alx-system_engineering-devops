@@ -10,3 +10,4 @@ mv file directory Moves file(betty) to tmp/my first directory
 11- list entire files
 7- moving file to subdirectory
 8- deleting betty from directory
+9- deleting subdirectory from parent directory
