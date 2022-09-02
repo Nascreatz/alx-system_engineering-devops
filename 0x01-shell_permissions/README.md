@@ -12,3 +12,4 @@ Who am i
 11. sets directories permissions
 12- setting directory permissions
 13- change group
+16- playing Star Wars VI in terminal
