@@ -5,3 +5,4 @@ Who am i
 4- creates an empty file hello
 5- add execution permission to owner of file hello
 7- execute permissions allowed for everybody
+6- gives several permissions
