@@ -10,3 +10,4 @@ Who am i
 9- more on permissions
 10- mirrors permissions
 11. sets directories permissions
+12- setting directory permissions
