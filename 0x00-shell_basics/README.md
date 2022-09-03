@@ -5,3 +5,4 @@
 16 - clean emacs
 17- prints welcome to school
 18 - aeeorates lines using commas
+19- school
