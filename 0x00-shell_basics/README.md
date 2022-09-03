@@ -4,3 +4,4 @@
 15- moves all files beginning with uppercase
 16 - clean emacs
 17- prints welcome to school
+18 - aeeorates lines using commas
