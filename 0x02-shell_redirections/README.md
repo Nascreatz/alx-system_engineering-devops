@@ -12,3 +12,5 @@
 14. It must be in that file
 15. Count that word
 16. What's next?
+18. Letters only please
+17. I hate bins
