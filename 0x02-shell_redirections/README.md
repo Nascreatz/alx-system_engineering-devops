@@ -21,3 +21,4 @@
 22. DJ Cut Killer
 23. Empty casks make the most noise
 20. The biggest fan
+25. acrostic
