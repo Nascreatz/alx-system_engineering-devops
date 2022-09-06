@@ -4,3 +4,4 @@
 7. It is a good file that cuts iron without making a noise
 #!/bin/bash
 8. Save current state of directory
+9. Duplicate last line
