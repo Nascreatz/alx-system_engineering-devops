@@ -8,3 +8,4 @@
 10. No more javascript
 11. Don't just count your directories, make your directories count
 12. What’s new
+13. Being unique is better than being perfect
