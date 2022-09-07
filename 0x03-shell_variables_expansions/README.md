@@ -4,3 +4,4 @@
 4- printenv commands can be used to display environment variables
 5-  lists all local variables and environment variables, and functions.
 6- a script that creates a new local variable.
+7- creates a new global variable.
