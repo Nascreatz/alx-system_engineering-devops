@@ -10,3 +10,4 @@
 10- displays the result of BREATH to the power LOVE
 11- converts a number from base 2 to base 10.
 13-  prints a number with two decimal places, followed by a new line.
+16- converts a number from base 10 to base 16.
